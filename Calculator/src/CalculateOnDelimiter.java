@@ -24,8 +24,6 @@ public class CalculateOnDelimiter {
                     flag = true;
             }
         }
-//        String[] returnString = new String[index];
-//        System.arraycopy(numberStrings, 0, returnString, 0, index);
         return numberStrings;
     }
 
